@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="f7f26383-7128-436d-ba34-87d2c22a897a" Publisher="CN=宗士" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>MultiTouchChecker</DisplayName>
+    <PublisherDisplayName>宗士</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.scale-100.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MultiTouchChecker.App">
+      <VisualElements DisplayName="MultiTouchChecker" Logo="Assets\Logo.scale-100.png" SmallLogo="Assets\SmallLogo.scale-100.png" Description="デバイスの対応タッチ数や、その座標を表示します。" ForegroundText="dark" BackgroundColor="#787878">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\WideLogo.scale-100.png" />
+        <SplashScreen Image="Assets\SplashScreen.scale-100.png" BackgroundColor="#787878" />
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

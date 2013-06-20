@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MultiTouchChecker.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MultiTouchChecker"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Canvas x:ConnectionId='1' x:Name="canvas"                        Background="#FF787878" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1366" Height="768">
+            <TextBlock x:Name="MaxContactsTB" Canvas.Left="32" TextWrapping="Wrap" Text="TextBlock" Canvas.Top="32" Height="320" Width="320" FontSize="18" Foreground="Black"/>
+            <Line x:Name="LineRed" Fill="#FF533B3B" Stroke="#FFA20D0D" StrokeThickness="1" X2="1"/>
+            <Line x:Name="LineBlue" Fill="#FF37546C" Stroke="#FF0D65A2" StrokeThickness="1" X2="1"/>
+            <TextBlock x:Name="messageTB" TextWrapping="Wrap" Text="TextBlock" FontSize="18" Foreground="Black" Margin="384,32,200,200"/>
+        </Canvas>
+    </Grid>
+    
+</Page>
+

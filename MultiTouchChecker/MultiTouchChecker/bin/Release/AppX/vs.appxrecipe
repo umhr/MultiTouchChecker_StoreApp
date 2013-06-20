@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XPS_12</Machine>
+    <WindowsUser>浩昭</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>250AAC25D29261319B6A41252E36CB47BD4070998BCA906D13318BAA6F8B8336</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f7f26383-7128-436d-ba34-87d2c22a897a_1.0.0.0_neutral__91kvrck337y4t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f7f26383-7128-436d-ba34-87d2c22a897a_91kvrck337y4t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f7f26383-7128-436d-ba34-87d2c22a897a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=宗士</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T12:43:27.874</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\MultiTouchChecker.exe">
+      <PackagePath>MultiTouchChecker.exe</PackagePath>
+      <Modified>2013-06-01T12:43:27.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\MultiTouchChecker.pdb">
+      <PackagePath>MultiTouchChecker.pdb</PackagePath>
+      <Modified>2013-06-01T12:43:27.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-06-26T16:11:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T07:43:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-06-26T16:11:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T12:22:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-06-26T16:11:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T12:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-06-26T16:11:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T12:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T12:10:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-05-22T10:14:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T11:23:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-05-31T15:13:15.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-01T12:43:27.778</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

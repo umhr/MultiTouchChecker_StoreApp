@@ -1,0 +1,77 @@
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.exe
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.pdb
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\bin\Debug\resources.pri
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\bin\Debug\AppxManifest.xml
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.build.appxrecipe
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.g.i.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.g.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.g.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.g.i.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.g.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\XamlTypeInfo.g.cs
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.xaml
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.xaml
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.xaml
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\MultiTouchChecker.exe
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\MultiTouchChecker.pdb
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\priconfig.xml
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\layout.resfiles
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\resources.resfiles
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\pri.resfiles
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\LanguageQualifiers.txt
+c:\users\宗士\documents\visual studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\ProjectArchitectures.txt
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.exe
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.pdb
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Debug\resources.pri
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Debug\AppxManifest.xml
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.build.appxrecipe
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.g.i.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.g.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.g.i.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.g.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.xaml
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.xaml
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.xaml
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\MultiTouchChecker.exe
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\MultiTouchChecker.pdb
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\priconfig.xml
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\layout.resfiles
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\resources.resfiles
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\pri.resfiles
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\LanguageQualifiers.txt
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\ProjectArchitectures.txt
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.exe
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.pdb
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\bin\Debug\resources.pri
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\bin\Debug\AppxManifest.xml
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\bin\Debug\MultiTouchChecker.build.appxrecipe
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.g.i.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.g.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.g.i.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.g.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\App.xaml
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\MainPage.xaml
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\MultiTouchChecker.exe
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\MultiTouchChecker.pdb
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\priconfig.xml
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\layout.resfiles
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\resources.resfiles
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\pri.resfiles
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\LanguageQualifiers.txt
+C:\Users\Public\Documents\MultiTouchChecker\MultiTouchChecker\obj\Debug\ProjectArchitectures.txt
+C:\Users\宗士\Documents\Visual Studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\priconfig.xml.intermediate
+C:\Users\宗士\Documents\Visual Studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\layout.resfiles.intermediate
+C:\Users\宗士\Documents\Visual Studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\resources.resfiles.intermediate
+C:\Users\宗士\Documents\Visual Studio 2012\Projects\MultiTouchChecker\MultiTouchChecker\obj\Debug\pri.resfiles.intermediate
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\priconfig.xml.intermediate
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\layout.resfiles.intermediate
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\resources.resfiles.intermediate
+C:\Users\浩昭\Desktop\MultiTouchChecker\MultiTouchChecker\obj\Debug\pri.resfiles.intermediate
